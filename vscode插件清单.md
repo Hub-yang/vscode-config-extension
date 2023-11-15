@@ -154,6 +154,8 @@ ID: antfu.unocss
 发布者: Anthony Fu
 VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=antfu.unocss
 
+bug：新版本无智能提示：回退至0.57.0版本
+
 #### Vue 3 Snippets
 
 ID: hollowtree.vue-snippets
