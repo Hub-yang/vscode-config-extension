@@ -1,2 +1,1 @@
-# vscode_config_etc
-vscode配置，插件等相关
+<p align=center>我的vscode配置和插件清单</p>
